@@ -20,7 +20,7 @@ export default function RootLayout({
           <h1 className='text-amber-600 text-4xl mx-15'>PEMPAK</h1>
         </div>
         
-          <div className="container mx-auto flex space-x-6 text-lg font-medium ">
+          <div className="container mx-auto flex space-x-5 text-lg font-medium ">
             <Link href="/" className="hover:text-blue-600 transition-colors my-2">Home</Link>
             <Link href="/about" className="hover:text-blue-600 transition-colors my-2">About</Link>
             <Link href="/contact" className="hover:text-blue-600 transition-colors my-2">Our Product</Link>
@@ -32,10 +32,10 @@ export default function RootLayout({
         </nav>
 
         {/* Main Content */}
-        <main className="">
+        <main>
           {children}
         </main>
-         {/* <Footer/> */}
+         <Footer/>
       </body>
     </html>
   );
