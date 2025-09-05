@@ -18,10 +18,10 @@ export default function CoporatePolicy() {
 
             {/* Vertical Icons in Center */}
             <div className="flex flex-col items-center space-y-20 relative">
-              <img src="/Line-2.svg" alt="" className="top-0" />
+              <img src="others/Line-2.svg" alt="" className="top-0" />
 
               <div>
-                <img src="/coperate-1.svg" alt="" />
+                <img src="coperate/coperate-1.svg" alt="" />
               </div>
             </div>
 
@@ -65,11 +65,11 @@ export default function CoporatePolicy() {
             {/* Vertical Icons in Center */}
             <div className="flex flex-col items-center space-y-20 relative">
               <div>
-                <img src="/Line-1.svg" alt="" />
+                <img src="others/Line-1.svg" alt="" />
               </div>
               <div>
                 <div></div>
-                <img src="/coperate-2.svg" alt="" />
+                <img src="coperate/coperate-2.svg" alt="" />
               </div>
             </div>
 
@@ -84,11 +84,11 @@ export default function CoporatePolicy() {
             {/* Vertical Icons in Center */}
             <div className="flex flex-col items-center space-y-20 relative">
               <div>
-                <img src="/Line-1.svg" alt="" />
+                <img src="others/Line-1.svg" alt="" />
               </div>
               <div>
                 <div></div>
-                <img src="/coperate-3.svg" alt="" />
+                <img src="coperate/coperate-3.svg" alt="" />
               </div>
             </div>
 
@@ -143,11 +143,11 @@ export default function CoporatePolicy() {
             {/* Vertical Icons in Center */}
             <div className="flex flex-col items-center space-y-20 relative">
               <div>
-                <img src="/Line-1.svg" alt="" />
+                <img src="others/Line-1.svg" alt="" />
               </div>
               <div>
                 <div></div>
-                <img src="/coperate-4.svg" alt="" />
+                <img src="coperate/coperate-4.svg" alt="" />
               </div>
             </div>
 
@@ -162,11 +162,11 @@ export default function CoporatePolicy() {
             {/* Vertical Icons in Center */}
             <div className="flex flex-col items-center space-y-20 relative">
               <div>
-                <img src="/Line-1.svg" alt="" />
+                <img src="others/Line-1.svg" alt="" />
               </div>
               <div>
                 <div></div>
-                <img src="/coperate-5.svg" alt="" />
+                <img src="coperate/coperate-5.svg" alt="" />
               </div>
             </div>
 
@@ -219,11 +219,11 @@ export default function CoporatePolicy() {
             {/* Vertical Icons in Center */}
             <div className="flex flex-col items-center space-y-20 relative">
               <div>
-                <img src="/Line-1.svg" alt="" />
+                <img src="others/Line-1.svg" alt="" />
               </div>
               <div>
                 <div></div>
-                <img src="/coperate-6.svg" alt="" />
+                <img src="coperate/coperate-6.svg" alt="" />
               </div>
             </div>
 

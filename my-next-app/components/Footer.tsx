@@ -13,7 +13,7 @@ export default function Footer() {
           </p>
           
           <div className='flex'>
-            <img src="/phoneNo.svg" alt="" className='bg-white h-5 w-7 mr-2'/>
+            <img src="socialMedia/phoneNo.svg" alt="" className='bg-white h-5 w-7 mr-2'/>
 
           <p className="text-sm mb-3">
            +92-42-111-736-725
@@ -21,13 +21,13 @@ export default function Footer() {
           </div>
 
           <div className='flex'>
-            <img src="/gmail.svg" alt="" className='bg-white h-5 w-7 mr-2'/>
+            <img src="socialMedia/gmail.svg" alt="" className='bg-white h-5 w-7 mr-2'/>
           <p className="text-sm mb-3">
            pempak@gmail.com
           </p>
           </div>
           <div className='flex'>
-            <img src="/location-icon.svg" alt="" className='bg-white h-5 w-7 mr-2'/>
+            <img src="socialMedia/location-icon.svg" alt="" className='bg-white h-5 w-7 mr-2'/>
           <p className="text-sm mb-3">
            pempak@gmail.com
           </p>
@@ -71,12 +71,12 @@ export default function Footer() {
         </div>
 
         <div className='absolute w-[90vw] p-3 flex justify-end mt-55'>
-          <img className='m-2' src="/facebook-icon.svg" alt="" />
+          <img className='m-2' src="socialMedia/facebook-icon.svg" alt="" />
           <img className='m-2 bg-white h-8 w-8 rounded-sm' src="/instagram.svg" alt="" />
-          <img className='m-2' src="/twitter-icon.svg" alt="" />
-          <img className='m-2' src="/linkedin.svg" alt="" />
-          <img className='m-2' src="/youtube.svg" alt="" />
-          <img className='m-2' src="/watsapp.svg" alt="" />
+          <img className='m-2' src="socialMedia/twitter-icon.svg" alt="" />
+          <img className='m-2' src="socialMedia/linkedin.svg" alt="" />
+          <img className='m-2' src="socialMedia/youtube.svg" alt="" />
+          <img className='m-2' src="socialMedia/watsapp.svg" alt="" />
         </div>
 
       </div>
